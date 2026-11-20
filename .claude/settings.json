@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "claw-hwp": {
+      "source": {
+        "source": "github",
+        "repo": "DoHyun468/claw-hwp"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "claw-hwp@claw-hwp": true
+  }
+}
